@@ -31,13 +31,13 @@ O website foi criado com o objetivo de reunir informações sobre a equipe, proj
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/kofitech0-pi/KofiTech.git
+git clone https://github.com/ZoolyEduc/landing-page-kofitech.git
 ```
 
 ### Entre na pasta
 
 ```bash
-cd KofiTech
+cd landing-page-kofitech
 ```
 
 ### Execute
@@ -56,7 +56,7 @@ ou utilize a extensão Live Server do VS Code.
 
 Acesse a landing page da equipe:
 
-🔗 https://kofitech0-pi.github.io/KofiTech/
+🔗 https://zoolyeduc.github.io/landing-page-kofitech/
 
 ---
 
